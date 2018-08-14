@@ -1,0 +1,1748 @@
+[
+    {
+        "bankArea": "北京",
+        "bankAreaCode": "1",
+        "cityList": [
+            {
+                "bankCityCode": "10",
+                "bankCity": "北京"
+            }
+        ]
+    },
+    {
+        "bankArea": "上海",
+        "bankAreaCode": "2",
+        "cityList": [
+            {
+                "bankCityCode": "21",
+                "bankCity": "上海"
+            }
+        ]
+    },
+    {
+        "bankArea": "天津",
+        "bankAreaCode": "3",
+        "cityList": [
+            {
+                "bankCityCode": "22",
+                "bankCity": "天津"
+            }
+        ]
+    },
+    {
+        "bankArea": "重庆",
+        "bankAreaCode": "4",
+        "cityList": [
+            {
+                "bankCityCode": "23",
+                "bankCity": "重庆"
+            },
+            {
+                "bankCityCode": "230",
+                "bankCity": "涪陵"
+            },
+            {
+                "bankCityCode": "231",
+                "bankCity": "万州"
+            },
+            {
+                "bankCityCode": "232",
+                "bankCity": "黔江"
+            }
+        ]
+    },
+    {
+        "bankArea": "河北",
+        "bankAreaCode": "5",
+        "cityList": [
+            {
+                "bankCityCode": "311",
+                "bankCity": "石家庄"
+            },
+            {
+                "bankCityCode": "313",
+                "bankCity": "张家口"
+            },
+            {
+                "bankCityCode": "314",
+                "bankCity": "承德"
+            },
+            {
+                "bankCityCode": "335",
+                "bankCity": "秦皇岛"
+            },
+            {
+                "bankCityCode": "315",
+                "bankCity": "唐山"
+            },
+            {
+                "bankCityCode": "316",
+                "bankCity": "廊坊"
+            },
+            {
+                "bankCityCode": "312",
+                "bankCity": "保定"
+            },
+            {
+                "bankCityCode": "317",
+                "bankCity": "沧州"
+            },
+            {
+                "bankCityCode": "318",
+                "bankCity": "衡水"
+            },
+            {
+                "bankCityCode": "319",
+                "bankCity": "邢台"
+            },
+            {
+                "bankCityCode": "310",
+                "bankCity": "邯郸"
+            }
+        ]
+    },
+    {
+        "bankArea": "山西",
+        "bankAreaCode": "6",
+        "cityList": [
+            {
+                "bankCityCode": "351",
+                "bankCity": "太原"
+            },
+            {
+                "bankCityCode": "352",
+                "bankCity": "大同"
+            },
+            {
+                "bankCityCode": "349",
+                "bankCity": "朔州"
+            },
+            {
+                "bankCityCode": "353",
+                "bankCity": "阳泉"
+            },
+            {
+                "bankCityCode": "355",
+                "bankCity": "长治"
+            },
+            {
+                "bankCityCode": "356",
+                "bankCity": "晋城"
+            },
+            {
+                "bankCityCode": "350",
+                "bankCity": "忻州"
+            },
+            {
+                "bankCityCode": "358",
+                "bankCity": "离石"
+            },
+            {
+                "bankCityCode": "354",
+                "bankCity": "晋中"
+            },
+            {
+                "bankCityCode": "357",
+                "bankCity": "临汾"
+            },
+            {
+                "bankCityCode": "359",
+                "bankCity": "运城"
+            },
+            {
+                "bankCityCode": "242",
+                "bankCity": "吕梁"
+            }
+        ]
+    },
+    {
+        "bankArea": "内蒙古",
+        "bankAreaCode": "7",
+        "cityList": [
+            {
+                "bankCityCode": "471",
+                "bankCity": "呼和浩特"
+            },
+            {
+                "bankCityCode": "472",
+                "bankCity": "包头"
+            },
+            {
+                "bankCityCode": "473",
+                "bankCity": "乌海"
+            },
+            {
+                "bankCityCode": "476",
+                "bankCity": "赤峰"
+            },
+            {
+                "bankCityCode": "470",
+                "bankCity": "海拉尔"
+            },
+            {
+                "bankCityCode": "482",
+                "bankCity": "乌兰浩特"
+            },
+            {
+                "bankCityCode": "475",
+                "bankCity": "通辽"
+            },
+            {
+                "bankCityCode": "479",
+                "bankCity": "锡林浩特"
+            },
+            {
+                "bankCityCode": "474",
+                "bankCity": "集宁"
+            },
+            {
+                "bankCityCode": "477",
+                "bankCity": "东胜"
+            },
+            {
+                "bankCityCode": "478",
+                "bankCity": "临河"
+            },
+            {
+                "bankCityCode": "483",
+                "bankCity": "阿拉善盟"
+            },
+            {
+                "bankCityCode": "480",
+                "bankCity": "巴彦淖尔"
+            },
+            {
+                "bankCityCode": "489",
+                "bankCity": "鄂尔多斯"
+            },
+            {
+                "bankCityCode": "481",
+                "bankCity": "呼伦贝尔"
+            },
+            {
+                "bankCityCode": "484",
+                "bankCity": "乌兰察布"
+            },
+            {
+                "bankCityCode": "485",
+                "bankCity": "锡林郭勒盟"
+            },
+            {
+                "bankCityCode": "486",
+                "bankCity": "兴安盟"
+            }
+        ]
+    },
+    {
+        "bankArea": "辽宁",
+        "bankAreaCode": "8",
+        "cityList": [
+            {
+                "bankCityCode": "24",
+                "bankCity": "沈阳"
+            },
+            {
+                "bankCityCode": "421",
+                "bankCity": "朝阳"
+            },
+            {
+                "bankCityCode": "418",
+                "bankCity": "阜新"
+            },
+            {
+                "bankCityCode": "410",
+                "bankCity": "铁岭"
+            },
+            {
+                "bankCityCode": "413",
+                "bankCity": "抚顺"
+            },
+            {
+                "bankCityCode": "414",
+                "bankCity": "本溪"
+            },
+            {
+                "bankCityCode": "419",
+                "bankCity": "辽阳"
+            },
+            {
+                "bankCityCode": "412",
+                "bankCity": "鞍山"
+            },
+            {
+                "bankCityCode": "415",
+                "bankCity": "丹东"
+            },
+            {
+                "bankCityCode": "411",
+                "bankCity": "大连"
+            },
+            {
+                "bankCityCode": "417",
+                "bankCity": "营口"
+            },
+            {
+                "bankCityCode": "427",
+                "bankCity": "盘锦"
+            },
+            {
+                "bankCityCode": "416",
+                "bankCity": "锦州"
+            },
+            {
+                "bankCityCode": "429",
+                "bankCity": "葫芦岛"
+            }
+        ]
+    },
+    {
+        "bankArea": "吉林",
+        "bankAreaCode": "9",
+        "cityList": [
+            {
+                "bankCityCode": "431",
+                "bankCity": "长春"
+            },
+            {
+                "bankCityCode": "436",
+                "bankCity": "白城"
+            },
+            {
+                "bankCityCode": "438",
+                "bankCity": "松原"
+            },
+            {
+                "bankCityCode": "432",
+                "bankCity": "吉林"
+            },
+            {
+                "bankCityCode": "434",
+                "bankCity": "四平"
+            },
+            {
+                "bankCityCode": "437",
+                "bankCity": "辽源"
+            },
+            {
+                "bankCityCode": "435",
+                "bankCity": "通化"
+            },
+            {
+                "bankCityCode": "439",
+                "bankCity": "白山"
+            },
+            {
+                "bankCityCode": "433",
+                "bankCity": "延吉"
+            },
+            {
+                "bankCityCode": "247",
+                "bankCity": "延边州"
+            }
+        ]
+    },
+    {
+        "bankArea": "黑龙江",
+        "bankAreaCode": "10",
+        "cityList": [
+            {
+                "bankCityCode": "451",
+                "bankCity": "哈尔滨"
+            },
+            {
+                "bankCityCode": "452",
+                "bankCity": "齐齐哈尔"
+            },
+            {
+                "bankCityCode": "456",
+                "bankCity": "黑河"
+            },
+            {
+                "bankCityCode": "459",
+                "bankCity": "大庆"
+            },
+            {
+                "bankCityCode": "458",
+                "bankCity": "伊春"
+            },
+            {
+                "bankCityCode": "468",
+                "bankCity": "鹤岗"
+            },
+            {
+                "bankCityCode": "454",
+                "bankCity": "佳木斯"
+            },
+            {
+                "bankCityCode": "469",
+                "bankCity": "双鸭山"
+            },
+            {
+                "bankCityCode": "464",
+                "bankCity": "七台河"
+            },
+            {
+                "bankCityCode": "467",
+                "bankCity": "鸡西"
+            },
+            {
+                "bankCityCode": "453",
+                "bankCity": "牡丹江"
+            },
+            {
+                "bankCityCode": "455",
+                "bankCity": "绥化"
+            },
+            {
+                "bankCityCode": "457",
+                "bankCity": "加格达奇"
+            },
+            {
+                "bankCityCode": "285",
+                "bankCity": "大兴安岭地区"
+            }
+        ]
+    },
+    {
+        "bankArea": "江苏",
+        "bankAreaCode": "11",
+        "cityList": [
+            {
+                "bankCityCode": "25",
+                "bankCity": "南京"
+            },
+            {
+                "bankCityCode": "512",
+                "bankCity": "苏州"
+            },
+            {
+                "bankCityCode": "516",
+                "bankCity": "徐州"
+            },
+            {
+                "bankCityCode": "518",
+                "bankCity": "连云港"
+            },
+            {
+                "bankCityCode": "527",
+                "bankCity": "宿迁"
+            },
+            {
+                "bankCityCode": "517",
+                "bankCity": "淮安"
+            },
+            {
+                "bankCityCode": "515",
+                "bankCity": "盐城"
+            },
+            {
+                "bankCityCode": "514",
+                "bankCity": "扬州"
+            },
+            {
+                "bankCityCode": "523",
+                "bankCity": "泰州"
+            },
+            {
+                "bankCityCode": "513",
+                "bankCity": "南通"
+            },
+            {
+                "bankCityCode": "511",
+                "bankCity": "镇江"
+            },
+            {
+                "bankCityCode": "519",
+                "bankCity": "常州"
+            },
+            {
+                "bankCityCode": "510",
+                "bankCity": "无锡"
+            }
+        ]
+    },
+    {
+        "bankArea": "浙江",
+        "bankAreaCode": "12",
+        "cityList": [
+            {
+                "bankCityCode": "571",
+                "bankCity": "杭州"
+            },
+            {
+                "bankCityCode": "572",
+                "bankCity": "湖州"
+            },
+            {
+                "bankCityCode": "573",
+                "bankCity": "嘉兴"
+            },
+            {
+                "bankCityCode": "580",
+                "bankCity": "舟山"
+            },
+            {
+                "bankCityCode": "574",
+                "bankCity": "宁波"
+            },
+            {
+                "bankCityCode": "575",
+                "bankCity": "绍兴"
+            },
+            {
+                "bankCityCode": "579",
+                "bankCity": "金华"
+            },
+            {
+                "bankCityCode": "576",
+                "bankCity": "台州"
+            },
+            {
+                "bankCityCode": "577",
+                "bankCity": "温州"
+            },
+            {
+                "bankCityCode": "578",
+                "bankCity": "丽水"
+            },
+            {
+                "bankCityCode": "570",
+                "bankCity": "衢州"
+            }
+        ]
+    },
+    {
+        "bankArea": "安徽",
+        "bankAreaCode": "13",
+        "cityList": [
+            {
+                "bankCityCode": "551",
+                "bankCity": "合肥"
+            },
+            {
+                "bankCityCode": "557",
+                "bankCity": "宿州"
+            },
+            {
+                "bankCityCode": "561",
+                "bankCity": "淮北"
+            },
+            {
+                "bankCityCode": "558",
+                "bankCity": "阜阳"
+            },
+            {
+                "bankCityCode": "552",
+                "bankCity": "蚌埠"
+            },
+            {
+                "bankCityCode": "554",
+                "bankCity": "淮南"
+            },
+            {
+                "bankCityCode": "550",
+                "bankCity": "滁州"
+            },
+            {
+                "bankCityCode": "555",
+                "bankCity": "马鞍山"
+            },
+            {
+                "bankCityCode": "553",
+                "bankCity": "芜湖"
+            },
+            {
+                "bankCityCode": "562",
+                "bankCity": "铜陵"
+            },
+            {
+                "bankCityCode": "556",
+                "bankCity": "安庆"
+            },
+            {
+                "bankCityCode": "559",
+                "bankCity": "黄山"
+            },
+            {
+                "bankCityCode": "564",
+                "bankCity": "六安"
+            },
+            {
+                "bankCityCode": "565",
+                "bankCity": "巢湖"
+            },
+            {
+                "bankCityCode": "566",
+                "bankCity": "池州"
+            },
+            {
+                "bankCityCode": "563",
+                "bankCity": "宣城"
+            },
+            {
+                "bankCityCode": "5581",
+                "bankCity": "亳州"
+            }
+        ]
+    },
+    {
+        "bankArea": "福建",
+        "bankAreaCode": "14",
+        "cityList": [
+            {
+                "bankCityCode": "591",
+                "bankCity": "福州"
+            },
+            {
+                "bankCityCode": "599",
+                "bankCity": "南平"
+            },
+            {
+                "bankCityCode": "598",
+                "bankCity": "三明"
+            },
+            {
+                "bankCityCode": "594",
+                "bankCity": "莆田"
+            },
+            {
+                "bankCityCode": "595",
+                "bankCity": "泉州"
+            },
+            {
+                "bankCityCode": "592",
+                "bankCity": "厦门"
+            },
+            {
+                "bankCityCode": "596",
+                "bankCity": "漳州"
+            },
+            {
+                "bankCityCode": "597",
+                "bankCity": "龙岩"
+            },
+            {
+                "bankCityCode": "593",
+                "bankCity": "宁德"
+            },
+            {
+                "bankCityCode": "5930",
+                "bankCity": "福安"
+            },
+            {
+                "bankCityCode": "5990",
+                "bankCity": "邵武"
+            },
+            {
+                "bankCityCode": "5950",
+                "bankCity": "石狮"
+            },
+            {
+                "bankCityCode": "5980",
+                "bankCity": "永安"
+            },
+            {
+                "bankCityCode": "5991",
+                "bankCity": "武夷山"
+            },
+            {
+                "bankCityCode": "5995",
+                "bankCity": "福清"
+            }
+        ]
+    },
+    {
+        "bankArea": "江西",
+        "bankAreaCode": "15",
+        "cityList": [
+            {
+                "bankCityCode": "791",
+                "bankCity": "南昌"
+            },
+            {
+                "bankCityCode": "792",
+                "bankCity": "九江"
+            },
+            {
+                "bankCityCode": "798",
+                "bankCity": "景德镇"
+            },
+            {
+                "bankCityCode": "701",
+                "bankCity": "鹰潭"
+            },
+            {
+                "bankCityCode": "790",
+                "bankCity": "新余"
+            },
+            {
+                "bankCityCode": "799",
+                "bankCity": "萍乡"
+            },
+            {
+                "bankCityCode": "797",
+                "bankCity": "赣州"
+            },
+            {
+                "bankCityCode": "793",
+                "bankCity": "上饶"
+            },
+            {
+                "bankCityCode": "794",
+                "bankCity": "临川"
+            },
+            {
+                "bankCityCode": "795",
+                "bankCity": "宜春"
+            },
+            {
+                "bankCityCode": "796",
+                "bankCity": "吉安"
+            },
+            {
+                "bankCityCode": "7940",
+                "bankCity": "抚州"
+            }
+        ]
+    },
+    {
+        "bankArea": "山东",
+        "bankAreaCode": "16",
+        "cityList": [
+            {
+                "bankCityCode": "531",
+                "bankCity": "济南"
+            },
+            {
+                "bankCityCode": "635",
+                "bankCity": "聊城"
+            },
+            {
+                "bankCityCode": "534",
+                "bankCity": "德州"
+            },
+            {
+                "bankCityCode": "546",
+                "bankCity": "东营"
+            },
+            {
+                "bankCityCode": "533",
+                "bankCity": "淄博"
+            },
+            {
+                "bankCityCode": "536",
+                "bankCity": "潍坊"
+            },
+            {
+                "bankCityCode": "535",
+                "bankCity": "烟台"
+            },
+            {
+                "bankCityCode": "631",
+                "bankCity": "威海"
+            },
+            {
+                "bankCityCode": "532",
+                "bankCity": "青岛"
+            },
+            {
+                "bankCityCode": "633",
+                "bankCity": "日照"
+            },
+            {
+                "bankCityCode": "539",
+                "bankCity": "临沂"
+            },
+            {
+                "bankCityCode": "632",
+                "bankCity": "枣庄"
+            },
+            {
+                "bankCityCode": "537",
+                "bankCity": "济宁"
+            },
+            {
+                "bankCityCode": "538",
+                "bankCity": "泰安"
+            },
+            {
+                "bankCityCode": "634",
+                "bankCity": "莱芜"
+            },
+            {
+                "bankCityCode": "543",
+                "bankCity": "滨州"
+            },
+            {
+                "bankCityCode": "530",
+                "bankCity": "菏泽"
+            }
+        ]
+    },
+    {
+        "bankArea": "河南",
+        "bankAreaCode": "17",
+        "cityList": [
+            {
+                "bankCityCode": "371",
+                "bankCity": "郑州"
+            },
+            {
+                "bankCityCode": "398",
+                "bankCity": "三门峡"
+            },
+            {
+                "bankCityCode": "379",
+                "bankCity": "洛阳"
+            },
+            {
+                "bankCityCode": "391",
+                "bankCity": "焦作"
+            },
+            {
+                "bankCityCode": "373",
+                "bankCity": "新乡"
+            },
+            {
+                "bankCityCode": "392",
+                "bankCity": "鹤壁"
+            },
+            {
+                "bankCityCode": "372",
+                "bankCity": "安阳"
+            },
+            {
+                "bankCityCode": "393",
+                "bankCity": "濮阳"
+            },
+            {
+                "bankCityCode": "378",
+                "bankCity": "开封"
+            },
+            {
+                "bankCityCode": "370",
+                "bankCity": "商丘"
+            },
+            {
+                "bankCityCode": "374",
+                "bankCity": "许昌"
+            },
+            {
+                "bankCityCode": "395",
+                "bankCity": "漯河"
+            },
+            {
+                "bankCityCode": "375",
+                "bankCity": "平顶山"
+            },
+            {
+                "bankCityCode": "377",
+                "bankCity": "南阳"
+            },
+            {
+                "bankCityCode": "376",
+                "bankCity": "信阳"
+            },
+            {
+                "bankCityCode": "3910",
+                "bankCity": "济源"
+            },
+            {
+                "bankCityCode": "394",
+                "bankCity": "周口"
+            },
+            {
+                "bankCityCode": "396",
+                "bankCity": "驻马店"
+            }
+        ]
+    },
+    {
+        "bankArea": "湖北",
+        "bankAreaCode": "18",
+        "cityList": [
+            {
+                "bankCityCode": "27",
+                "bankCity": "武汉"
+            },
+            {
+                "bankCityCode": "719",
+                "bankCity": "十堰"
+            },
+            {
+                "bankCityCode": "710",
+                "bankCity": "襄樊"
+            },
+            {
+                "bankCityCode": "724",
+                "bankCity": "荆门"
+            },
+            {
+                "bankCityCode": "712",
+                "bankCity": "孝感"
+            },
+            {
+                "bankCityCode": "713",
+                "bankCity": "黄冈"
+            },
+            {
+                "bankCityCode": "711",
+                "bankCity": "鄂州"
+            },
+            {
+                "bankCityCode": "714",
+                "bankCity": "黄石"
+            },
+            {
+                "bankCityCode": "715",
+                "bankCity": "咸宁"
+            },
+            {
+                "bankCityCode": "716",
+                "bankCity": "荆州"
+            },
+            {
+                "bankCityCode": "717",
+                "bankCity": "宜昌"
+            },
+            {
+                "bankCityCode": "718",
+                "bankCity": "恩施"
+            },
+            {
+                "bankCityCode": "728",
+                "bankCity": "仙桃"
+            },
+            {
+                "bankCityCode": "7281",
+                "bankCity": "潜江"
+            },
+            {
+                "bankCityCode": "722",
+                "bankCity": "随州"
+            },
+            {
+                "bankCityCode": "7221",
+                "bankCity": "广水"
+            },
+            {
+                "bankCityCode": "7282",
+                "bankCity": "天门"
+            }
+        ]
+    },
+    {
+        "bankArea": "湖南",
+        "bankAreaCode": "19",
+        "cityList": [
+            {
+                "bankCityCode": "731",
+                "bankCity": "长沙"
+            },
+            {
+                "bankCityCode": "744",
+                "bankCity": "张家界"
+            },
+            {
+                "bankCityCode": "736",
+                "bankCity": "常德"
+            },
+            {
+                "bankCityCode": "737",
+                "bankCity": "益阳"
+            },
+            {
+                "bankCityCode": "730",
+                "bankCity": "岳阳"
+            },
+            {
+                "bankCityCode": "733",
+                "bankCity": "株洲"
+            },
+            {
+                "bankCityCode": "732",
+                "bankCity": "湘潭"
+            },
+            {
+                "bankCityCode": "734",
+                "bankCity": "衡阳"
+            },
+            {
+                "bankCityCode": "735",
+                "bankCity": "郴州"
+            },
+            {
+                "bankCityCode": "746",
+                "bankCity": "永州"
+            },
+            {
+                "bankCityCode": "739",
+                "bankCity": "邵阳"
+            },
+            {
+                "bankCityCode": "745",
+                "bankCity": "怀化"
+            },
+            {
+                "bankCityCode": "738",
+                "bankCity": "娄底"
+            },
+            {
+                "bankCityCode": "743",
+                "bankCity": "吉首"
+            },
+            {
+                "bankCityCode": "747",
+                "bankCity": "湘西土家族苗族自治州"
+            }
+        ]
+    },
+    {
+        "bankArea": "广东",
+        "bankAreaCode": "20",
+        "cityList": [
+            {
+                "bankCityCode": "20",
+                "bankCity": "广州"
+            },
+            {
+                "bankCityCode": "755",
+                "bankCity": "深圳"
+            },
+            {
+                "bankCityCode": "763",
+                "bankCity": "清远"
+            },
+            {
+                "bankCityCode": "751",
+                "bankCity": "韶关"
+            },
+            {
+                "bankCityCode": "762",
+                "bankCity": "河源"
+            },
+            {
+                "bankCityCode": "753",
+                "bankCity": "梅州"
+            },
+            {
+                "bankCityCode": "768",
+                "bankCity": "潮州"
+            },
+            {
+                "bankCityCode": "754",
+                "bankCity": "汕头"
+            },
+            {
+                "bankCityCode": "663",
+                "bankCity": "揭阳"
+            },
+            {
+                "bankCityCode": "660",
+                "bankCity": "汕尾"
+            },
+            {
+                "bankCityCode": "752",
+                "bankCity": "惠州"
+            },
+            {
+                "bankCityCode": "769",
+                "bankCity": "东莞"
+            },
+            {
+                "bankCityCode": "756",
+                "bankCity": "珠海"
+            },
+            {
+                "bankCityCode": "760",
+                "bankCity": "中山"
+            },
+            {
+                "bankCityCode": "750",
+                "bankCity": "江门"
+            },
+            {
+                "bankCityCode": "757",
+                "bankCity": "佛山"
+            },
+            {
+                "bankCityCode": "668",
+                "bankCity": "茂名"
+            },
+            {
+                "bankCityCode": "759",
+                "bankCity": "湛江"
+            },
+            {
+                "bankCityCode": "662",
+                "bankCity": "阳江"
+            },
+            {
+                "bankCityCode": "766",
+                "bankCity": "云浮"
+            },
+            {
+                "bankCityCode": "758",
+                "bankCity": "肇庆"
+            }
+        ]
+    },
+    {
+        "bankArea": "广西",
+        "bankAreaCode": "21",
+        "cityList": [
+            {
+                "bankCityCode": "771",
+                "bankCity": "南宁"
+            },
+            {
+                "bankCityCode": "773",
+                "bankCity": "桂林"
+            },
+            {
+                "bankCityCode": "772",
+                "bankCity": "柳州"
+            },
+            {
+                "bankCityCode": "774",
+                "bankCity": "贺州"
+            },
+            {
+                "bankCityCode": "775",
+                "bankCity": "玉林"
+            },
+            {
+                "bankCityCode": "777",
+                "bankCity": "钦州"
+            },
+            {
+                "bankCityCode": "779",
+                "bankCity": "北海"
+            },
+            {
+                "bankCityCode": "770",
+                "bankCity": "防城港"
+            },
+            {
+                "bankCityCode": "776",
+                "bankCity": "百色"
+            },
+            {
+                "bankCityCode": "778",
+                "bankCity": "河池"
+            },
+            {
+                "bankCityCode": "7750",
+                "bankCity": "贵港"
+            },
+            {
+                "bankCityCode": "7740",
+                "bankCity": "梧州"
+            },
+            {
+                "bankCityCode": "7711",
+                "bankCity": "崇左"
+            },
+            {
+                "bankCityCode": "284",
+                "bankCity": "来宾"
+            }
+        ]
+    },
+    {
+        "bankArea": "海南",
+        "bankAreaCode": "22",
+        "cityList": [
+            {
+                "bankCityCode": "898",
+                "bankCity": "海口"
+            },
+            {
+                "bankCityCode": "899",
+                "bankCity": "三亚"
+            },
+            {
+                "bankCityCode": "890",
+                "bankCity": "儋州"
+            },
+            {
+                "bankCityCode": "8901",
+                "bankCity": "琼海"
+            },
+            {
+                "bankCityCode": "8902",
+                "bankCity": "文昌"
+            },
+            {
+                "bankCityCode": "8903",
+                "bankCity": "万宁"
+            },
+            {
+                "bankCityCode": "8904",
+                "bankCity": "五指山"
+            },
+            {
+                "bankCityCode": "8905",
+                "bankCity": "东方"
+            }
+        ]
+    },
+    {
+        "bankArea": "四川",
+        "bankAreaCode": "23",
+        "cityList": [
+            {
+                "bankCityCode": "28",
+                "bankCity": "成都"
+            },
+            {
+                "bankCityCode": "839",
+                "bankCity": "广元"
+            },
+            {
+                "bankCityCode": "816",
+                "bankCity": "绵阳"
+            },
+            {
+                "bankCityCode": "838",
+                "bankCity": "德阳"
+            },
+            {
+                "bankCityCode": "817",
+                "bankCity": "南充"
+            },
+            {
+                "bankCityCode": "826",
+                "bankCity": "广安"
+            },
+            {
+                "bankCityCode": "825",
+                "bankCity": "遂宁"
+            },
+            {
+                "bankCityCode": "832",
+                "bankCity": "内江"
+            },
+            {
+                "bankCityCode": "833",
+                "bankCity": "乐山"
+            },
+            {
+                "bankCityCode": "813",
+                "bankCity": "自贡"
+            },
+            {
+                "bankCityCode": "830",
+                "bankCity": "泸州"
+            },
+            {
+                "bankCityCode": "831",
+                "bankCity": "宜宾"
+            },
+            {
+                "bankCityCode": "812",
+                "bankCity": "攀枝花"
+            },
+            {
+                "bankCityCode": "827",
+                "bankCity": "巴中"
+            },
+            {
+                "bankCityCode": "818",
+                "bankCity": "达州"
+            },
+            {
+                "bankCityCode": "8320",
+                "bankCity": "资阳"
+            },
+            {
+                "bankCityCode": "835",
+                "bankCity": "雅安"
+            },
+            {
+                "bankCityCode": "834",
+                "bankCity": "西昌"
+            },
+            {
+                "bankCityCode": "837",
+                "bankCity": "阿坝州"
+            },
+            {
+                "bankCityCode": "828",
+                "bankCity": "眉山"
+            },
+            {
+                "bankCityCode": "281",
+                "bankCity": "凉山州"
+            },
+            {
+                "bankCityCode": "282",
+                "bankCity": "甘孜州"
+            }
+        ]
+    },
+    {
+        "bankArea": "贵州",
+        "bankAreaCode": "24",
+        "cityList": [
+            {
+                "bankCityCode": "851",
+                "bankCity": "贵阳"
+            },
+            {
+                "bankCityCode": "858",
+                "bankCity": "六盘水"
+            },
+            {
+                "bankCityCode": "852",
+                "bankCity": "遵义"
+            },
+            {
+                "bankCityCode": "857",
+                "bankCity": "毕节"
+            },
+            {
+                "bankCityCode": "856",
+                "bankCity": "铜仁"
+            },
+            {
+                "bankCityCode": "853",
+                "bankCity": "安顺"
+            },
+            {
+                "bankCityCode": "855",
+                "bankCity": "凯里"
+            },
+            {
+                "bankCityCode": "854",
+                "bankCity": "都匀"
+            },
+            {
+                "bankCityCode": "859",
+                "bankCity": "兴义"
+            },
+            {
+                "bankCityCode": "243",
+                "bankCity": "黔东南州"
+            },
+            {
+                "bankCityCode": "244",
+                "bankCity": "黔南州"
+            },
+            {
+                "bankCityCode": "245",
+                "bankCity": "黔西南州"
+            }
+        ]
+    },
+    {
+        "bankArea": "云南",
+        "bankAreaCode": "25",
+        "cityList": [
+            {
+                "bankCityCode": "871",
+                "bankCity": "昆明"
+            },
+            {
+                "bankCityCode": "874",
+                "bankCity": "曲靖"
+            },
+            {
+                "bankCityCode": "877",
+                "bankCity": "玉溪"
+            },
+            {
+                "bankCityCode": "888",
+                "bankCity": "丽江"
+            },
+            {
+                "bankCityCode": "870",
+                "bankCity": "昭通"
+            },
+            {
+                "bankCityCode": "879",
+                "bankCity": "思茅"
+            },
+            {
+                "bankCityCode": "883",
+                "bankCity": "临沧"
+            },
+            {
+                "bankCityCode": "875",
+                "bankCity": "保山"
+            },
+            {
+                "bankCityCode": "692",
+                "bankCity": "潞西"
+            },
+            {
+                "bankCityCode": "886",
+                "bankCity": "泸水"
+            },
+            {
+                "bankCityCode": "887",
+                "bankCity": "中甸"
+            },
+            {
+                "bankCityCode": "872",
+                "bankCity": "大理"
+            },
+            {
+                "bankCityCode": "878",
+                "bankCity": "楚雄"
+            },
+            {
+                "bankCityCode": "873",
+                "bankCity": "个旧"
+            },
+            {
+                "bankCityCode": "876",
+                "bankCity": "文山"
+            },
+            {
+                "bankCityCode": "691",
+                "bankCity": "景洪"
+            },
+            {
+                "bankCityCode": "8730",
+                "bankCity": "红河"
+            },
+            {
+                "bankCityCode": "286",
+                "bankCity": "德宏州"
+            },
+            {
+                "bankCityCode": "287",
+                "bankCity": "迪庆州"
+            },
+            {
+                "bankCityCode": "288",
+                "bankCity": "西双版纳州"
+            },
+            {
+                "bankCityCode": "289",
+                "bankCity": "怒江州"
+            }
+        ]
+    },
+    {
+        "bankArea": "西藏",
+        "bankAreaCode": "26",
+        "cityList": [
+            {
+                "bankCityCode": "891",
+                "bankCity": "拉萨"
+            },
+            {
+                "bankCityCode": "896",
+                "bankCity": "那曲"
+            },
+            {
+                "bankCityCode": "895",
+                "bankCity": "昌都"
+            },
+            {
+                "bankCityCode": "894",
+                "bankCity": "林芝"
+            },
+            {
+                "bankCityCode": "893",
+                "bankCity": "乃东"
+            },
+            {
+                "bankCityCode": "892",
+                "bankCity": "日喀则"
+            },
+            {
+                "bankCityCode": "897",
+                "bankCity": "噶尔"
+            },
+            {
+                "bankCityCode": "8971",
+                "bankCity": "阿里地区"
+            },
+            {
+                "bankCityCode": "900",
+                "bankCity": "山南地区"
+            },
+            {
+                "bankCityCode": "800",
+                "bankCity": "樟木口岸"
+            }
+        ]
+    },
+    {
+        "bankArea": "陕西",
+        "bankAreaCode": "27",
+        "cityList": [
+            {
+                "bankCityCode": "29",
+                "bankCity": "西安"
+            },
+            {
+                "bankCityCode": "911",
+                "bankCity": "延安"
+            },
+            {
+                "bankCityCode": "919",
+                "bankCity": "铜川"
+            },
+            {
+                "bankCityCode": "913",
+                "bankCity": "渭南"
+            },
+            {
+                "bankCityCode": "910",
+                "bankCity": "咸阳"
+            },
+            {
+                "bankCityCode": "917",
+                "bankCity": "宝鸡"
+            },
+            {
+                "bankCityCode": "916",
+                "bankCity": "汉中"
+            },
+            {
+                "bankCityCode": "912",
+                "bankCity": "榆林"
+            },
+            {
+                "bankCityCode": "914",
+                "bankCity": "商洛"
+            },
+            {
+                "bankCityCode": "915",
+                "bankCity": "安康"
+            }
+        ]
+    },
+    {
+        "bankArea": "甘肃",
+        "bankAreaCode": "28",
+        "cityList": [
+            {
+                "bankCityCode": "931",
+                "bankCity": "兰州"
+            },
+            {
+                "bankCityCode": "937",
+                "bankCity": "嘉峪关"
+            },
+            {
+                "bankCityCode": "943",
+                "bankCity": "白银"
+            },
+            {
+                "bankCityCode": "938",
+                "bankCity": "天水"
+            },
+            {
+                "bankCityCode": "9370",
+                "bankCity": "酒泉"
+            },
+            {
+                "bankCityCode": "936",
+                "bankCity": "张掖"
+            },
+            {
+                "bankCityCode": "935",
+                "bankCity": "金昌"
+            },
+            {
+                "bankCityCode": "934",
+                "bankCity": "庆阳"
+            },
+            {
+                "bankCityCode": "933",
+                "bankCity": "平凉"
+            },
+            {
+                "bankCityCode": "932",
+                "bankCity": "定西"
+            },
+            {
+                "bankCityCode": "939",
+                "bankCity": "陇南"
+            },
+            {
+                "bankCityCode": "930",
+                "bankCity": "临夏"
+            },
+            {
+                "bankCityCode": "941",
+                "bankCity": "甘南藏族"
+            },
+            {
+                "bankCityCode": "9350",
+                "bankCity": "武威"
+            }
+        ]
+    },
+    {
+        "bankArea": "宁夏",
+        "bankAreaCode": "29",
+        "cityList": [
+            {
+                "bankCityCode": "951",
+                "bankCity": "银川"
+            },
+            {
+                "bankCityCode": "952",
+                "bankCity": "石嘴山"
+            },
+            {
+                "bankCityCode": "953",
+                "bankCity": "吴忠"
+            },
+            {
+                "bankCityCode": "954",
+                "bankCity": "固原"
+            },
+            {
+                "bankCityCode": "248",
+                "bankCity": "中卫"
+            }
+        ]
+    },
+    {
+        "bankArea": "青海",
+        "bankAreaCode": "30",
+        "cityList": [
+            {
+                "bankCityCode": "971",
+                "bankCity": "西宁"
+            },
+            {
+                "bankCityCode": "972",
+                "bankCity": "平安"
+            },
+            {
+                "bankCityCode": "970",
+                "bankCity": "海晏"
+            },
+            {
+                "bankCityCode": "974",
+                "bankCity": "共和"
+            },
+            {
+                "bankCityCode": "973",
+                "bankCity": "同仁"
+            },
+            {
+                "bankCityCode": "975",
+                "bankCity": "玛沁"
+            },
+            {
+                "bankCityCode": "976",
+                "bankCity": "玉树"
+            },
+            {
+                "bankCityCode": "977",
+                "bankCity": "德令哈"
+            },
+            {
+                "bankCityCode": "236",
+                "bankCity": "果洛藏族自治州"
+            },
+            {
+                "bankCityCode": "237",
+                "bankCity": "海北藏族自治州"
+            },
+            {
+                "bankCityCode": "238",
+                "bankCity": "海东地区"
+            },
+            {
+                "bankCityCode": "239",
+                "bankCity": "海南藏族自治州"
+            },
+            {
+                "bankCityCode": "240",
+                "bankCity": "海西蒙古族藏族自治州"
+            },
+            {
+                "bankCityCode": "241",
+                "bankCity": "黄南藏族自治州"
+            }
+        ]
+    },
+    {
+        "bankArea": "新疆",
+        "bankAreaCode": "31",
+        "cityList": [
+            {
+                "bankCityCode": "991",
+                "bankCity": "乌鲁木齐"
+            },
+            {
+                "bankCityCode": "990",
+                "bankCity": "克拉玛依"
+            },
+            {
+                "bankCityCode": "993",
+                "bankCity": "石河子"
+            },
+            {
+                "bankCityCode": "998",
+                "bankCity": "喀什"
+            },
+            {
+                "bankCityCode": "997",
+                "bankCity": "阿克苏"
+            },
+            {
+                "bankCityCode": "903",
+                "bankCity": "和田"
+            },
+            {
+                "bankCityCode": "995",
+                "bankCity": "吐鲁番"
+            },
+            {
+                "bankCityCode": "902",
+                "bankCity": "哈密"
+            },
+            {
+                "bankCityCode": "908",
+                "bankCity": "阿图什"
+            },
+            {
+                "bankCityCode": "909",
+                "bankCity": "博乐"
+            },
+            {
+                "bankCityCode": "994",
+                "bankCity": "昌吉"
+            },
+            {
+                "bankCityCode": "996",
+                "bankCity": "库尔勒"
+            },
+            {
+                "bankCityCode": "999",
+                "bankCity": "伊犁"
+            },
+            {
+                "bankCityCode": "992",
+                "bankCity": "奎屯"
+            },
+            {
+                "bankCityCode": "901",
+                "bankCity": "塔城"
+            },
+            {
+                "bankCityCode": "906",
+                "bankCity": "阿勒泰"
+            },
+            {
+                "bankCityCode": "904",
+                "bankCity": "巴音郭楞蒙古自治州"
+            },
+            {
+                "bankCityCode": "905",
+                "bankCity": "博尔塔拉蒙古自治州"
+            }
+        ]
+    }
+]

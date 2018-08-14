@@ -2,7 +2,8 @@ use_frameworks!
 
 target 'HSPickerView_Example' do
   pod 'HSPickerView', :path => '../'
-
+  pod  'YYModel','~>1.0.4'
+  
   target 'HSPickerView_Tests' do
     inherit! :search_paths
 

@@ -1,0 +1,24 @@
+PODS:
+  - HSPickerView (1.0.0):
+    - YYModel (~> 1.0.4)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - HSPickerView (from `../`)
+  - YYModel (~> 1.0.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - YYModel
+
+EXTERNAL SOURCES:
+  HSPickerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HSPickerView: 4e06c0b57269b61e25a85258d38cf0c4b379cbb3
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 317e4b4b5b7394047d70219a27eb912d6e0a2b68
+
+COCOAPODS: 1.5.2

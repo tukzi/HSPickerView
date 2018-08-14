@@ -1,0 +1,6 @@
+framework module HSPickerView {
+  umbrella header "HSPickerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

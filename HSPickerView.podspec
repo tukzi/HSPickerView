@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HSPickerView'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of HSPickerView.'
+  s.version          = '1.0.0'
+  s.summary          = '一款通用的选择器'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,25 +18,21 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+YKPickerView 封装了省份城市选择，时间日期选择，普通文字选项选择，只为使用更简单。
                        DESC
 
-  s.homepage         = 'https://github.com/hesong_ios@163.com/HSPickerView'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/tukzi/HSPickerView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'hesong_ios@163.com' => 'hesong_ios@163.com' }
-  s.source           = { :git => 'https://github.com/hesong_ios@163.com/HSPickerView.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.author           = { 'songhe' => 'hesong_ios@163.com' }
+  s.source           = { :git => 'https://github.com/tukzi/HSPickerView.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'HSPickerView/Classes/**/*'
+  s.source_files = 'HSPickerView/**/*.{h,m}'
   
-  # s.resource_bundles = {
-  #   'HSPickerView' => ['HSPickerView/Assets/*.png']
-  # }
+  s.resources = 'HSPickerView/**/*.bundle'
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.public_header_files = 'HSPickerView/Classes/*.h'
+   s.frameworks = 'UIKit', 'Foundation'
+   s.dependency 'YYModel', '~> 1.0.4'
 end

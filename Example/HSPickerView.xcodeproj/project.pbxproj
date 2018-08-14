@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		24456DBB47AAB49F79556C1E /* Pods-HSPickerView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSPickerView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HSPickerView_Tests/Pods-HSPickerView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		26F9A60358058CAB1EF28C97 /* HSPickerView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HSPickerView.podspec; path = ../HSPickerView.podspec; sourceTree = "<group>"; };
+		26F9A60358058CAB1EF28C97 /* HSPickerView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HSPickerView.podspec; path = ../HSPickerView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5FFC31D8B2FBA5675D6C1718 /* Pods-HSPickerView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSPickerView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-HSPickerView_Example/Pods-HSPickerView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* HSPickerView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HSPickerView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -62,11 +62,11 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		88CCFCDA80DBF78FE77DC374 /* Pods_HSPickerView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HSPickerView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8BA0653350E66383262CF570 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		8BA0653350E66383262CF570 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		8CBAFE7C34846F5956804245 /* Pods-HSPickerView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSPickerView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HSPickerView_Example/Pods-HSPickerView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A1C09B053084E3199186DB1C /* Pods-HSPickerView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSPickerView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HSPickerView_Tests/Pods-HSPickerView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		BB4B3A54AE5E2F5E24D116C6 /* Pods_HSPickerView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HSPickerView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D14857904EF12C6ED73CA399 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D14857904EF12C6ED73CA399 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -302,10 +302,12 @@
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-HSPickerView_Example/Pods-HSPickerView_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/HSPickerView/HSPickerView.framework",
+				"${BUILT_PRODUCTS_DIR}/YYModel/YYModel.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/HSPickerView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/YYModel.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -440,7 +442,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -473,7 +475,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
