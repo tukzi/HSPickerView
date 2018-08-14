@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HSPickerView_Example' do
+  pod 'HSPickerView', :path => '../'
+
+  target 'HSPickerView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
